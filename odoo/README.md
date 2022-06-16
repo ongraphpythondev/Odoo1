@@ -29,10 +29,15 @@ Getting started with Odoo
 
 IN ODOO we can do task like -:
 1 - creating a free trial account on Odoo app.
+
 2-  Enable the developer mode to access more features.
+
 3-Authenticate Odoo’s account using Python.
+
 4- Use add, update, delete and read operations in Odoo using Odoo’s external APIs for Python.
+
 5- Create a basic order management system to handle orders using Odoo and Python.
+
 
 
 For a standard installation please follow the steps:-
