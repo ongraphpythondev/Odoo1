@@ -28,7 +28,8 @@ Getting started with Odoo
 -------------------------
 
 IN ODOO we can do task like -:
-1 - creating a free trial account on Odoo app.
+
+1 - creating a free trial account on Odoo.
 
 2-  Enable the developer mode to access more features.
 
@@ -41,6 +42,7 @@ IN ODOO we can do task like -:
 
 
 For a standard installation please follow the steps:-
+
 1.Odoo requires Python 3.7 or later to run.During installation, check Add Python 3 to PATH, then click Customize Installation and make sure that pip is checked.
 
 2.Odoo uses PostgreSQL as database management system.By default, the only user is postgres but Odoo forbids connecting as postgres, so you need to create a new PostgreSQL user.
