@@ -53,4 +53,4 @@ For a standard installation please follow the steps:-
 
 RUNNING ODOO -:
 
-Once all dependencies are set up, Odoo can be launched by running odoo-bin, the command-line interface of the server. It is located at the root of the Odoo Community directory.
+Once all dependencies are set up Odoo can be launched by running odoo-bin, the command-line interface of the server. It is located at the root of the Odoo Community directory.
